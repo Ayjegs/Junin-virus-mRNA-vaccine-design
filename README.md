@@ -1,6 +1,12 @@
 # Computational Design of an mRNA Vaccine Against Junin Virus
 This project presents the computational design of a multi-epitope mRNA vaccine targeting Junin virus using immunoinformatics tools. The work was conducted as part of an industrial training (IT) research project, where I served as the team lead. The project was later published in Springer Nature (In Silico Pharmacology).
 
+## Objectives
+- Identify antigenic viral proteins
+- Predict B-cell and T-cell epitopes
+- Design a stable multi-epitope mRNA vaccine construct
+- Evaluate immune response computationally
+
 ## Workflow
 1. Sequence retrieval (NCBI)
 2. Antigenicity screening
